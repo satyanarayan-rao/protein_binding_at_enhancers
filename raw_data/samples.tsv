@@ -1,0 +1,8 @@
+sample	paired_read_1_path	paired_read_2_path
+S2_tandem_R1_1	raw_data/SRR3133326_1.fastq.gz	raw_data/SRR3133326_2.fastq.gz
+S2_tandem_R1_2	raw_data/SRR3133327_1.fastq.gz	raw_data/SRR3133327_2.fastq.gz
+S2_tandem_R2_1	raw_data/SRR3133328_1.fastq.gz	raw_data/SRR3133328_2.fastq.gz
+S2_tandem_R2_2	raw_data/SRR3133329_1.fastq.gz	raw_data/SRR3133329_2.fastq.gz
+S2_tandem_C_R1	raw_data/SRR3133298_1.fastq.gz	raw_data/SRR3133298_2.fastq.gz
+S2_tandem_C_R2	raw_data/SRR3133303_1.fastq.gz	raw_data/SRR3133303_2.fastq.gz
+S2_tandem_C_R3	raw_data/SRR3133317_1.fastq.gz	raw_data/SRR3133317_2.fastq.gz
